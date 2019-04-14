@@ -15,6 +15,7 @@ birtakımı
 biz
 bizler
 böylesi
+böyleleri
 bu
 buncası
 bura
@@ -27,7 +28,10 @@ falan
 falanca
 felan
 filan
+hep
 hepimiz
+hepiniz
+hepsi
 herbiri
 herkes
 herşey
@@ -47,11 +51,13 @@ neden
 nere
 nerde
 ne
+niye
 o
 öbürkü
 öbürleri
 öbürü
 öyleleri
+öylesi
 oncası
 onlar
 ora
@@ -63,6 +69,8 @@ sen
 seninki
 siz
 sizler
+şöyleleri
+şöylesi
 şu
 şuncası
 şura
