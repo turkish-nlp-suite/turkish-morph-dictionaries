@@ -32,4 +32,4 @@ ken	perf.ind.pres.conv
 erken	hab.ind.pres.pos.conv.3per.sing
 mezken	hab.ind.pres.neg.conv.3per.sing
 lerken	hab.ind.pres.pos.conv.3per.plu
-lermezken	hab.ind.pres.neg.conv.3per.plu
+mezlerken	hab.ind.pres.neg.conv.3per.plu
