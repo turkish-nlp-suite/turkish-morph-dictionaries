@@ -22,6 +22,7 @@ im	perf.ind.pres.1per.sing
 sin	perf.ind.pres.2per.sing
 iz	perf.ind.pres.1per.plu
 siniz	perf.ind.pres.2per.plu
+ler	perf.ind.pres.3per.plu
 dim	perf.ind.past.1per.sing
 din	perf.ind.past.2per.sing
 di	perf.ind.past.3per.sing
