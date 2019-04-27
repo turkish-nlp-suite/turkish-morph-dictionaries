@@ -4,6 +4,7 @@ miş	perf.nfh.ind.past.3per.sinf
 mişiz	perf.nfh.ind.past.1per.sing
 mişsiniz	perf.nfh.ind.past.2per.plu
 mişler	perf.nfh.ind.past.3per.plu
+lermiş  perf.nfh.ind.past.3per.plu
 sem	perf.cnd.pres.1per.sing
 sen	perf.cnd.pres.2per.sing
 se	perf.cnd.pres.3per.sing
@@ -27,6 +28,7 @@ di	perf.ind.past.3per.sing
 dik	perf.ind.past.1per.plu
 diniz	perf.ind.past.2per.plu
 diler	perf.ind.past.3per.plu
+lerdi	perf.ind.past.3per.plu
 mişçesine	perf.nfh.ind.past.conv.3per.sing
 ken	perf.ind.pres.conv
 erken	hab.ind.pres.pos.conv.3per.sing
