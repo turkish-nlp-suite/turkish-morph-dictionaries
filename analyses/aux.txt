@@ -1,6 +1,6 @@
 mişim	perf.nfh.ind.past.1per.sing
 mişsin perf.nfh.ind.past.2per.sing
-miş	perf.nfh.ind.past.3per.sinf
+miş	perf.nfh.ind.past.3per.sing
 mişiz	perf.nfh.ind.past.1per.sing
 mişsiniz	perf.nfh.ind.past.2per.plu
 mişler	perf.nfh.ind.past.3per.plu
