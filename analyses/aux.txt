@@ -11,6 +11,7 @@ se	perf.cnd.pres.3per.sing
 sek	perf.cnd.pres.1per.plu
 seniz	perf.cnd.pres.2per.plu
 seler	perf.cnd.pres.3per.plu
+lerse	perf.cnd.pres.3per.plu
 imdir	perf.gen.pres.1per.sing
 sindir	perf.gen.pres.2per.sing
 dir	perf.gen.pres.3per.sing
