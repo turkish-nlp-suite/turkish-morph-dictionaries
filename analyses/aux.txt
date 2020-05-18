@@ -17,8 +17,8 @@ sindir	perf.gen.pres.2per.sg
 dir	perf.gen.pres.3per.sg
 izdir	perf.gen.pres.1per.pl
 sinizdir	perf.gen.pres.2per.pl
-lerdir	perf.gen.pres.3pres.pl
-dirler	perf.gen.pres.3pres.pl
+lerdir	perf.gen.pres.3per.pl
+dirler	perf.gen.pres.3per.pl
 im	perf.ind.pres.1per.sg
 sin	perf.ind.pres.2per.sg
 iz	perf.ind.pres.1per.pl
