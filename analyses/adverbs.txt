@@ -755,7 +755,6 @@ iblisane ADV
 iblisçe ADV
 icabında ADV
 içeri ADV
-için ADV
 içinde ADV
 içkili ADV
 içkisiz ADV
@@ -844,8 +843,8 @@ kalantorca ADV
 kalben ADV
 kalender ADV
 kalenderce ADV
-kalûbela ADV
-kalûbeladan ADV
+kalubela ADV
+kalubeladan ADV
 kamilen ADV
 kanalıyla ADV
 kancıkça ADV
@@ -981,7 +980,7 @@ mağrurcasına ADV
 mahallece ADV
 mahfuzen ADV
 mahiye ADV
-mahkûmane ADV
+mahkumane ADV
 mahsuben ADV
 mahsus ADV
 mahsusçuktan ADV
@@ -995,8 +994,8 @@ malca ADV
 malen ADV
 malesef ADV
 malulen ADV
-malûlen ADV
-malûm ADV
+malulen ADV
+malum ADV
 mamafih ADV
 manaca ADV
 manen ADV
@@ -1198,6 +1197,7 @@ pazarlıksız ADV
 pederane ADV
 pehlivanane ADV
 pek ADV
+peki ADV
 pekala ADV
 pekçe ADV
 peltek ADV
@@ -1481,7 +1481,7 @@ titizlikle ADV
 top ADV
 toplam ADV
 toptan ADV
-topyekûn ADV
+topyekun ADV
 topyekün ADV
 töskürü ADV
 tükenik ADV
